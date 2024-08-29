@@ -1,5 +1,5 @@
 ## Привет, меня зовут Даниил и я C# разработчик! 💻
-Мой стек: C#, .NET 8, ASP.NET WebAPI, WebSocket, XUnit, EntityFramework, PostgreSQL, MSSQL, Apache Kafka, Docker.
+Мой стек: C#, .NET 8, ASP.NET WebAPI, WebSocket, XUnit, Moq,  EntityFramework, PostgreSQL, MSSQL, Apache Kafka, Docker.
 
 <p align='center'>
    <a href="https://t.me/xomic">
